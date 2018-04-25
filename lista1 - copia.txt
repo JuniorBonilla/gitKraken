@@ -1,0 +1,15 @@
+uno
+dos
+tres 
+cuatro
+<<<<<<< HEAD
+cinco
+seis
+dos
+tres 
+cuatro
+cinco
+seis
+=======
+cinco
+>>>>>>> abf8545... Primer commit en kraken
