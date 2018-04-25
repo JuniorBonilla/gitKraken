@@ -4,3 +4,8 @@ tres
 cuatro
 cinco
 seis
+dos
+tres 
+cuatro
+cinco
+seis
